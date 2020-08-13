@@ -31,4 +31,3 @@ but also all the external resources: images, styles etc.
 - load event: external resources are loaded, so styles are applied, image sizes are known etc.
 - beforeunload event: the user is leaving: we can check if the user saved the changes and ask them whether they really want to leave.
 - unload: the user almost left, but we still can initiate some operations, such as sending out statistics.
-# video-load-js
